@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working **Next.js 14** και **FastAPI**<br>⚡ Currently learning **React**, **Node.js** , **AWS** , **Kubernetes** and**Golang**<br>📫 You can also contact me here : spanos560@gmail.com<br>
+🔭 Currently working **Next.js 14** και **FastAPI**<br>⚡ Currently learning **React**, **Node.js** , **AWS** , **Kubernetes** and **Golang**<br>📫 You can also contact me here : spanos560@gmail.com<br>
 
 
 ## 🌐 Socials:
