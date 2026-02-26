@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Currently working **Next.js 14** και **FastAPI**<br>⚡ Currently learning **React**, **Node.js** , **AWS** , **Kubernetes** and **Golang**<br>📫 You can also contact me here : spanos560@gmail.com<br>
+# Hey there 😀:
+My name is **Fanis**, a recent Master graduate of DataScience <br><br>👨‍💻 Currently Working: on a private project for a **Java only video game**<br>⚡ Currently learning **React**, **Node.js** , **AWS** and **Kubernetes**
 
 
 ## 🌐 Socials:
